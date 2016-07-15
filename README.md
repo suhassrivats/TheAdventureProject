@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [ChaCha's Adventures](http://startbootstrap.com/) - [ChaCha's Adventures](http://startbootstrap.com/template-overviews/modern-business/)
 
 [ChaCha's Adventures](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [ChaCha's Adventures](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
@@ -24,3 +25,6 @@ ChaCha's Adventures is based on the [Bootstrap](http://getbootstrap.com/) framew
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
+=======
+# projectidea
+>>>>>>> 657cf5761f79d1ac4ce2f114d873996abb305038
